@@ -1,0 +1,179 @@
+﻿Provinsi,Tahun,TPT,TPAK
+Aceh,2021,6.3,63.78
+Aceh,2022,6.17,63.5
+Aceh,2023,6.03,64.77
+Aceh,2024,5.75,65.11
+Aceh,2025,5.64,65.32
+Bali,2021,5.37,73.54
+Bali,2022,4.8,76.86
+Bali,2023,2.69,77.08
+Bali,2024,1.79,77.11
+Bali,2025,1.49,77.31
+Banten,2021,8.98,63.79
+Banten,2022,8.09,64.72
+Banten,2023,7.52,64.44
+Banten,2024,6.68,66.17
+Banten,2025,6.69,64.66
+Bengkulu,2021,3.65,69.75
+Bengkulu,2022,3.59,69.81
+Bengkulu,2023,3.42,70.91
+Bengkulu,2024,3.11,71.71
+Bengkulu,2025,3.41,71.78
+DI Yogyakarta,2021,4.56,73.52
+DI Yogyakarta,2022,4.06,72.6
+DI Yogyakarta,2023,3.69,74.08
+DI Yogyakarta,2024,3.48,74.78
+DI Yogyakarta,2025,3.46,74.74
+DKI Jakarta,2021,8.5,62.63
+DKI Jakarta,2022,7.18,63.08
+DKI Jakarta,2023,6.53,65.21
+DKI Jakarta,2024,6.21,65.1
+DKI Jakarta,2025,6.05,64.75
+Gorontalo,2021,3.01,65.94
+Gorontalo,2022,2.58,68.91
+Gorontalo,2023,3.06,70.79
+Gorontalo,2024,3.13,69.95
+Gorontalo,2025,3.42,69.29
+Jambi,2021,5.09,67.17
+Jambi,2022,4.59,67.84
+Jambi,2023,4.53,68.75
+Jambi,2024,4.48,68.87
+Jambi,2025,4.26,68.37
+Jawa Barat,2021,9.82,64.95
+Jawa Barat,2022,8.31,66.15
+Jawa Barat,2023,7.44,66.49
+Jawa Barat,2024,6.75,67.71
+Jawa Barat,2025,6.77,66.99
+Jawa Tengah,2021,5.95,69.58
+Jawa Tengah,2022,5.57,70.84
+Jawa Tengah,2023,5.13,71.72
+Jawa Tengah,2024,4.78,73.74
+Jawa Tengah,2025,4.66,74.36
+Jawa Timur,2021,5.74,70.0
+Jawa Timur,2022,5.49,71.23
+Jawa Timur,2023,4.88,72.56
+Jawa Timur,2024,4.19,73.45
+Jawa Timur,2025,3.88,73.98
+Kalimantan Barat,2021,5.82,68.45
+Kalimantan Barat,2022,5.11,68.97
+Kalimantan Barat,2023,5.05,69.42
+Kalimantan Barat,2024,4.86,70.44
+Kalimantan Barat,2025,4.82,70.9
+Kalimantan Selatan,2021,4.95,69.26
+Kalimantan Selatan,2022,4.74,67.55
+Kalimantan Selatan,2023,4.31,69.76
+Kalimantan Selatan,2024,4.2,70.22
+Kalimantan Selatan,2025,4.16,69.93
+Kalimantan Tengah,2021,4.53,68.67
+Kalimantan Tengah,2022,4.26,67.23
+Kalimantan Tengah,2023,4.1,67.18
+Kalimantan Tengah,2024,4.01,68.71
+Kalimantan Tengah,2025,3.97,68.4
+Kalimantan Timur,2021,6.83,65.49
+Kalimantan Timur,2022,5.71,64.73
+Kalimantan Timur,2023,5.31,65.57
+Kalimantan Timur,2024,5.14,67.07
+Kalimantan Timur,2025,5.18,66.58
+Kalimantan Utara,2021,4.58,66.24
+Kalimantan Utara,2022,4.33,67.62
+Kalimantan Utara,2023,4.01,70.35
+Kalimantan Utara,2024,3.9,70.35
+Kalimantan Utara,2025,3.85,69.55
+Kepulauan Bangka Belitung,2021,5.03,65.88
+Kepulauan Bangka Belitung,2022,4.77,67.38
+Kepulauan Bangka Belitung,2023,4.56,68.34
+Kepulauan Bangka Belitung,2024,4.63,68.87
+Kepulauan Bangka Belitung,2025,4.45,69.38
+Kepulauan Riau,2021,9.91,68.27
+Kepulauan Riau,2022,8.23,68.94
+Kepulauan Riau,2023,6.8,68.68
+Kepulauan Riau,2024,6.39,69.17
+Kepulauan Riau,2025,6.45,68.23
+Lampung,2021,4.69,69.35
+Lampung,2022,4.52,70.06
+Lampung,2023,4.23,70.04
+Lampung,2024,4.19,70.41
+Lampung,2025,4.21,70.44
+Maluku,2021,6.93,65.75
+Maluku,2022,6.88,65.46
+Maluku,2023,6.31,63.6
+Maluku,2024,6.11,66.52
+Maluku,2025,6.27,66.66
+Maluku Utara,2021,4.71,64.7
+Maluku Utara,2022,3.98,64.88
+Maluku Utara,2023,4.31,67.77
+Maluku Utara,2024,4.03,69.13
+Maluku Utara,2025,4.55,69.57
+Nusa Tenggara Barat,2021,3.01,70.57
+Nusa Tenggara Barat,2022,2.89,70.93
+Nusa Tenggara Barat,2023,2.8,73.31
+Nusa Tenggara Barat,2024,2.73,77.23
+Nusa Tenggara Barat,2025,3.06,76.11
+Nusa Tenggara Timur,2021,3.77,73.78
+Nusa Tenggara Timur,2022,3.54,75.23
+Nusa Tenggara Timur,2023,3.14,75.72
+Nusa Tenggara Timur,2024,3.02,77.5
+Nusa Tenggara Timur,2025,3.31,75.55
+Papua,2021,3.33,78.29
+Papua,2022,2.83,77.75
+Papua,2023,2.67,77.2
+Papua,2024,6.48,68.4
+Papua,2025,6.96,63.98
+Papua Barat,2021,5.84,70.34
+Papua Barat,2022,5.37,68.55
+Papua Barat,2023,5.38,67.24
+Papua Barat,2024,4.13,71.25
+Papua Barat,2025,4.55,69.55
+Papua Barat Daya,2024,6.48,67.81
+Papua Barat Daya,2025,6.85,68.1
+Papua Pegunungan,2024,1.32,88.22
+Papua Pegunungan,2025,1.68,90.66
+Papua Selatan,2024,4.05,71.67
+Papua Selatan,2025,4.04,67.37
+Papua Tengah,2024,2.75,73.13
+Papua Tengah,2025,3.62,73.89
+Riau,2021,4.42,65.03
+Riau,2022,4.37,63.86
+Riau,2023,4.23,64.45
+Riau,2024,3.7,66.33
+Riau,2025,4.16,66.55
+Sulawesi Barat,2021,3.13,70.27
+Sulawesi Barat,2022,2.34,73.0
+Sulawesi Barat,2023,2.27,71.05
+Sulawesi Barat,2024,2.68,71.4
+Sulawesi Barat,2025,2.86,74.25
+Sulawesi Selatan,2021,5.72,64.73
+Sulawesi Selatan,2022,4.51,66.18
+Sulawesi Selatan,2023,4.33,65.66
+Sulawesi Selatan,2024,4.19,67.38
+Sulawesi Selatan,2025,4.21,67.65
+Sulawesi Tengah,2021,3.75,68.73
+Sulawesi Tengah,2022,3.0,69.99
+Sulawesi Tengah,2023,2.95,69.85
+Sulawesi Tengah,2024,2.94,71.1
+Sulawesi Tengah,2025,2.92,72.4
+Sulawesi Tenggara,2021,3.92,70.09
+Sulawesi Tenggara,2022,3.36,68.82
+Sulawesi Tenggara,2023,3.15,70.07
+Sulawesi Tenggara,2024,3.09,72.81
+Sulawesi Tenggara,2025,3.31,71.67
+Sulawesi Utara,2021,7.06,62.15
+Sulawesi Utara,2022,6.61,63.08
+Sulawesi Utara,2023,6.1,64.09
+Sulawesi Utara,2024,5.85,66.07
+Sulawesi Utara,2025,5.99,67.21
+Sumatera Barat,2021,6.52,67.72
+Sumatera Barat,2022,6.28,69.3
+Sumatera Barat,2023,5.94,69.61
+Sumatera Barat,2024,5.75,70.28
+Sumatera Barat,2025,5.62,71.34
+Sumatera Selatan,2021,4.98,68.77
+Sumatera Selatan,2022,4.63,69.31
+Sumatera Selatan,2023,4.11,70.72
+Sumatera Selatan,2024,3.86,70.82
+Sumatera Selatan,2025,3.69,69.88
+Sumatera Utara,2021,6.33,69.1
+Sumatera Utara,2022,6.16,69.53
+Sumatera Utara,2023,5.89,71.06
+Sumatera Utara,2024,5.6,71.36
+Sumatera Utara,2025,5.32,72.29
